@@ -3,4 +3,4 @@
 
 this is a test
 
-![Testlink]("./flow_cytometry")
+![Testlink](flow_cytometry)
